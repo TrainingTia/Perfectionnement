@@ -1,0 +1,25 @@
+/* Selector {
+    property: value;
+} */
+
+body {
+    background-image: url(img.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    border: 5px solid blue;
+}
+
+p {
+    color: aqua;
+}
+
+li {
+    list-style: none;
+}
+
+header {
+}
