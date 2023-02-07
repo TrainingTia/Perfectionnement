@@ -45,4 +45,5 @@ if (isset($_POST['submit'])) {
 </form>
 
 <!-- Affiche le résultat de l'opération -->
-<?php if (isset($result)) echo 'Résultat : ' . $result; ?>
+<?php if (isset($result)) echo 'Résultat : ' . $result; 
+?>
